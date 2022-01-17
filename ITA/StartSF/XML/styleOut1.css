@@ -1,0 +1,64 @@
+.title
+{
+	color: #0B6FA4;
+	font: normal 20px Tahoma, Geneva, sans-serif;
+}
+
+.table-ext 
+{
+	width:60%;
+	font-family: Tahoma, Geneva, sans-serif;
+	border: 2px solid #A40808;
+	background-color: #FFFBE7;
+	text-align: center;
+	border-collapse: collapse;
+}
+
+.table-ext thead 
+{
+	background: #A40808;
+	border-bottom: 1px solid #444444;
+}
+
+.table-ext thead th 
+{
+	height:50px;
+	line-height:50px;
+	font-size: 17px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-align: center;
+
+}
+
+.table-ext tbody td 
+{
+	border:1px solid #ddd;
+	font-size: 18px;
+	color: #000000;
+}
+
+.divinterno
+{
+	height:270px; 
+	overflow:auto;
+	width:100%;
+}
+
+.table-int 
+{
+	width:100%;
+	text-align: center;
+}
+
+.table-int td 
+{
+	height:40px;
+	line-height:40px;
+}
+
+/*even row*/
+.table-int tr:nth-child(even)
+{
+	background: #FAFAFA;
+}

@@ -1,0 +1,5 @@
+If the pump is faulty there will be a "Low fuel pressure" problem 
+This problem arises if the pump "breaks up" internally causing swarf and iron filings to get into the fuel system 
+Normally this causes damage to the diesel injectors and unless the complete fuel system is attended to the problem will arise again 
+This is an expensive failure and no short cuts can be taken
+[Data are for demonstration purposes and are not guaranteed the accuracy of this information]

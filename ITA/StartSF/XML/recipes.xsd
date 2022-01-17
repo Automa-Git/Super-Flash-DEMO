@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="recipes">
+	<xs:complexType> 
+	 <xs:sequence>
+		<xs:element name="recipe" maxOccurs="unbounded">
+			<xs:complexType>
+			<xs:sequence>
+				<xs:element name="ingredients">
+				  <xs:complexType>
+				   <xs:sequence>
+						<xs:element name="ingredient" maxOccurs="unbounded">
+							<xs:complexType>
+							<xs:simpleContent>
+								<xs:extension base="xs:string">
+									<xs:attribute name="um" use="required">
+									<xs:simpleType>
+										<xs:restriction base="xs:string">
+											<xs:enumeration value="g"/>
+											<xs:enumeration value="n"/>
+										</xs:restriction>
+									</xs:simpleType>
+									</xs:attribute>
+									<xs:attribute name="qta" type="xs:integer" use="required"/>
+									<xs:attribute name="kcal" type="xs:decimal" use="required"/>
+								</xs:extension>
+							</xs:simpleContent>
+							</xs:complexType>
+						</xs:element>
+				   </xs:sequence>
+				  </xs:complexType>
+				</xs:element>
+			</xs:sequence>
+			<xs:attribute name="title" type="xs:string" use="required" /> 
+			</xs:complexType>
+		</xs:element>
+	</xs:sequence>
+	</xs:complexType>
+</xs:element>
+</xs:schema>

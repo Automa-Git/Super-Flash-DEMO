@@ -1,0 +1,14 @@
+MOTOR LOSES POWER AND SPEED, AND BLACK SMOKE EMERGES FROM THE EXHAUST
+CAUSE: 
+A) Dirty air filter unit
+B) Tappet clearance not OK Adjust the tappet clearance
+C) Injection nozzle not OK Contact assistance
+HOW TO INTERVENE - Dirty air filter unit
+Check the degree of dirt contamination of the air filter, and clean or renew it if necessary
+	- unscrew the air filter cover
+	- unscrew the knurled nut and remove the air filter cartridge
+	- clean the filter housing and cover for the air filter
+	- the air filter cartridge either needs to be replaced, or cleaned or checked depending on the degree of contamination
+	- thinly coat the gasket with grease or engine oil to make assembly and disassembly of the air filter cartridge easier
+	- assemble in reverse order
+[Data are for demonstration purposes and are not guaranteed the accuracy of this information]

@@ -1,0 +1,12 @@
+MOTOR FIRE  BUT THEN FAILS TO CONTINUE RUNNING
+CAUSE: 
+A) the speed control lever is not sufficiently set to the Start direction. Set the lever to the Start position;
+B) machine is not uncoupled. If possible, separate the engine from the machine by uncoupling it;
+C) fuel filter is clogged;
+HOW TO INTERVENE to Change the fuel filter:
+	- open the fuel cap and pull the fuel filter out of the tank by the cord;
+	- pull the fuel feed line off of the fuel filter and insert a new filter;
+	- insert the fuel filter back into the tank;
+	- close the fuel cap;
+	- the fuel system is bled automatically;
+[Data are for demonstration purposes and are not guaranteed the accuracy of this information]
